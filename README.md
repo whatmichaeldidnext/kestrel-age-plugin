@@ -118,6 +118,6 @@ This repository is just the `age` plugin (MIT), which is a standalone drop-in.
 ## Credits & licence
 
 - Original `age` plugin © 2024 [AlienMajik](https://github.com/AlienMajik/pwnagotchi_plugins) (MIT)
-- Kestrel port © 2026 Michael Charles (MIT)
+- Kestrel port © 2026 WhatMichaelDidNext (MIT)
 
 Released under the MIT Licence — see [LICENSE](LICENSE).
